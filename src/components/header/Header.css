@@ -2,13 +2,13 @@
 .header {
 	padding: 40px 0;
 	min-height: 695px;
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
 
+	position: relative;
+
 	background-color: var(--header-bg);
-	background-image: url('./../../assets/header-bg.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: center center;
@@ -32,11 +32,13 @@
 .header__title strong {
 	font-size: 60px;
 	font-weight: 700;
+	z-index: 2;
 }
 
 .header__title em {
 	font-style: normal;
 	color: var(--accent);
+	z-index: 2;
 }
 
 .header__text {
@@ -47,4 +49,5 @@
 
 .header__text p + p {
 	margin-top: 0.5em;
+	z-index: 2;
 }

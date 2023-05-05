@@ -3,7 +3,7 @@ import BtnGitHub from "../components/btnGitHub/BtnGitHub";
 import {projects} from "./../utils/projectsList"
 
 const ProjectDetails = () => {
-	const {id} = useParams();
+	const { id } = useParams();
 	const project = projects[id];
 
     return (
@@ -22,9 +22,7 @@ const ProjectDetails = () => {
 						<p>Skills: {project.skills}</p>
 					</div>
 
-					{project.gitHubLink && (
-						<BtnGitHub link="https://github.com" />
-					)}
+					<BtnGitHub link={project.gitHubLink} />
 				</div>
 			</div>
 		</main>

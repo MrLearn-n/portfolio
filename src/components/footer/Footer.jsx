@@ -1,9 +1,7 @@
 import "./Footer.css";
 
 import vk from './../../assets/icons/vk.svg';
-import instagram from './../../assets/icons/instagram.svg';
 import twitter from './../../assets/icons/twitter.svg';
-import linkedIn from './../../assets/icons/linkedIn.svg';
 import gitHub from './../../assets/icons/gitHub.svg';
 
 const Footer = () => {
@@ -19,11 +17,6 @@ const Footer = () => {
 						</li>
 						<li className="social__item">
 							<a href="#!">
-								<img src={instagram} alt="Link" />
-							</a>
-						</li>
-						<li className="social__item">
-							<a href="#!">
 								<img src={twitter} alt="Link" />
 							</a>
 						</li>
@@ -32,14 +25,9 @@ const Footer = () => {
 								<img src={gitHub} alt="Link" />
 							</a>
 						</li>
-						<li className="social__item">
-							<a href="#!">
-								<img src={linkedIn} alt="Link" />
-							</a>
-						</li>
 					</ul>
 					<div className="copyright">
-						<p>© 2022 frontend-dev.com</p>
+						<p>© 2023 frontend-dev.com</p>
 					</div>
 				</div>
 			</div>
