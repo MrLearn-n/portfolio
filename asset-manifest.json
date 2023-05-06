@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7b888495.css",
+    "main.js": "/portfolio/static/js/main.e4172341.js",
+    "static/media/movie.png": "/portfolio/static/media/movie.aa1f9304da85b3ee8d6a.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.f1d6eee74bb11dad73a9.png",
+    "static/media/store.png": "/portfolio/static/media/store.e5a8c0b0c23821bbfb96.png",
+    "static/media/ojjo.png": "/portfolio/static/media/ojjo.df429ccf7edd9cd19ac0.png",
+    "static/media/coffeestyle.png": "/portfolio/static/media/coffeestyle.857d5b6156b4dde0cc7f.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.356158351a2019efcd2f.png",
+    "static/media/sun.svg": "/portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/vk.svg": "/portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/portfolio/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "index.html": "/portfolio/index.html",
+    "main.7b888495.css.map": "/portfolio/static/css/main.7b888495.css.map",
+    "main.e4172341.js.map": "/portfolio/static/js/main.e4172341.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b888495.css",
+    "static/js/main.e4172341.js"
+  ]
+}
