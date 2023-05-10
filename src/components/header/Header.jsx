@@ -18,8 +18,9 @@ const Header = () => {
 			<ParticlesBg  color="#700700" num={200} type="cobweb" 
 				bg={{ 
 					position: "absolute",
+					right: 0,
 					zIndex: 0,
-					width: 5000
+					width: 3000,
 				}} 
 			/>
 		</header>
