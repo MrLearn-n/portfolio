@@ -29,20 +29,21 @@ const projects = [
 		img: project02,
 		imgBig: project02Big,
 		skills: 'React, Redux Toolkit',
-		gitHubLink: 'https://github.com',
+		gitHubLink: 'https://mrlearn-n.github.io/weatherApi/',
 	},
 	{
 		title: 'Store',
 		img: project03,
 		imgBig: project03Big,
 		skills: 'React, Redux Toolkit, API',
-		gitHubLink: 'https://github.com',
+		gitHubLink: 'https://mrlearn-n.github.io/store/',
 	},
 	{
 		title: 'Movie Store',
 		img: project04,
 		imgBig: project04Big,
 		skills: 'React, Redux',
+		gitHubLink: 'https://mrlearn-n.github.io/react-movie/',
 	},
 	{
 		title: 'Coffee Shop',
@@ -56,6 +57,7 @@ const projects = [
 		img: project06,
 		imgBig: project06Big,
 		skills: 'React, JS',
+		gitHubLink: 'https://mrlearn-n.github.io/eCommerse/',
 	},
 ];
 
